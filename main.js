@@ -3,7 +3,7 @@ import { MotionPathPlugin } from "gsap/MotionPathPlugin";
 import * as THREE from 'three'
 import vertexShader from './shaders/vertex.glsl'
 import fragmentShader from './shaders/fragment.glsl'
-import MouseMeshInteraction from './three_mmi.js'
+
 
 import atmosphereVertexShader from './shaders/atmosphereVertex.glsl'
 import atmosphereFragmentShader from './shaders/atmosphereFragment.glsl'
